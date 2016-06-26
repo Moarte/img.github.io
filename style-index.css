@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans';
+    background: #edf1f4;
+}
+
+header {
+    background: #2a2833;
+    height: 55px;
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-family: 'PT Sans';
+    font-weight: 400;
+}
+
+.Img {
+    display: block;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 7px 20px;
+    font-weight: 500;
+    font-family: 'PT Sans';
+    color:aliceblue;
+    
+}
+
+.port {
+    font-size: 30px;
+    color: black;
+    border: 4px solid #4e5052;
+    background: white;
+    border-radius: 20px;
+    margin: 0 auto;
+    height: 370px;
+    padding: 10px; 
+    box-sizing: border-box;
+    max-width: 900px;
+    margin-top: 100px;
+}
+
+.abz {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.inf {
+    margin: 28px;
+}
